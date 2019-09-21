@@ -7,6 +7,7 @@ namespace _015_Opgave65_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New change made!");
         }
     }
 }
